@@ -1,0 +1,155 @@
+2019-08-22 16:14:13,427 DEBUG    root            Loaded Command Group: [u'gcloud', u'components']
+2019-08-22 16:14:13,431 DEBUG    root            Loaded Command Group: [u'gcloud', u'components', u'update']
+2019-08-22 16:14:13,435 DEBUG    root            Running [gcloud.components.update] with arguments: [--quiet: "True", COMPONENT-IDS:8: "[u'gcloud', u'core', u'bq', u'gsutil', u'compute', u'preview', u'alpha', u'beta']"]
+2019-08-22 16:14:13,491 WARNING  root            Component [preview] no longer exists.
+2019-08-22 16:14:13,492 WARNING  root            Component [compute] no longer exists.
+2019-08-22 16:14:13,493 INFO     ___FILE_ONLY___ 
+
+2019-08-22 16:14:13,494 INFO     ___FILE_ONLY___ 
+Your current Cloud SDK version is: 259.0.0
+
+2019-08-22 16:14:13,494 INFO     ___FILE_ONLY___ Installing components from version: 259.0.0
+
+2019-08-22 16:14:13,494 INFO     ___FILE_ONLY___ 
+
+2019-08-22 16:14:13,499 INFO     ___FILE_ONLY___ +----------------------------------------------+
+2019-08-22 16:14:13,499 INFO     ___FILE_ONLY___ 
+
+2019-08-22 16:14:13,499 INFO     ___FILE_ONLY___ |     These components will be installed.      |
+2019-08-22 16:14:13,500 INFO     ___FILE_ONLY___ 
+
+2019-08-22 16:14:13,500 INFO     ___FILE_ONLY___ +-----------------------+------------+---------+
+2019-08-22 16:14:13,500 INFO     ___FILE_ONLY___ 
+
+2019-08-22 16:14:13,500 INFO     ___FILE_ONLY___ |          Name         |  Version   |   Size  |
+2019-08-22 16:14:13,500 INFO     ___FILE_ONLY___ 
+
+2019-08-22 16:14:13,500 INFO     ___FILE_ONLY___ +-----------------------+------------+---------+
+2019-08-22 16:14:13,501 INFO     ___FILE_ONLY___ 
+
+2019-08-22 16:14:13,501 INFO     ___FILE_ONLY___ | 
+2019-08-22 16:14:13,501 INFO     ___FILE_ONLY___ gcloud Alpha Commands
+2019-08-22 16:14:13,501 INFO     ___FILE_ONLY___  
+2019-08-22 16:14:13,501 INFO     ___FILE_ONLY___ | 
+2019-08-22 16:14:13,501 INFO     ___FILE_ONLY___ 2019.05.17
+2019-08-22 16:14:13,501 INFO     ___FILE_ONLY___  
+2019-08-22 16:14:13,502 INFO     ___FILE_ONLY___ | 
+2019-08-22 16:14:13,502 INFO     ___FILE_ONLY___ < 1 MiB
+2019-08-22 16:14:13,502 INFO     ___FILE_ONLY___  
+2019-08-22 16:14:13,502 INFO     ___FILE_ONLY___ |
+2019-08-22 16:14:13,502 INFO     ___FILE_ONLY___ 
+
+2019-08-22 16:14:13,502 INFO     ___FILE_ONLY___ | 
+2019-08-22 16:14:13,502 INFO     ___FILE_ONLY___ gcloud Beta Commands 
+2019-08-22 16:14:13,502 INFO     ___FILE_ONLY___  
+2019-08-22 16:14:13,503 INFO     ___FILE_ONLY___ | 
+2019-08-22 16:14:13,503 INFO     ___FILE_ONLY___ 2019.05.17
+2019-08-22 16:14:13,503 INFO     ___FILE_ONLY___  
+2019-08-22 16:14:13,503 INFO     ___FILE_ONLY___ | 
+2019-08-22 16:14:13,503 INFO     ___FILE_ONLY___ < 1 MiB
+2019-08-22 16:14:13,503 INFO     ___FILE_ONLY___  
+2019-08-22 16:14:13,503 INFO     ___FILE_ONLY___ |
+2019-08-22 16:14:13,504 INFO     ___FILE_ONLY___ 
+
+2019-08-22 16:14:13,504 INFO     ___FILE_ONLY___ +-----------------------+------------+---------+
+2019-08-22 16:14:13,504 INFO     ___FILE_ONLY___ 
+
+2019-08-22 16:14:13,504 INFO     ___FILE_ONLY___ 
+
+2019-08-22 16:14:13,542 INFO     ___FILE_ONLY___ For the latest full release notes, please visit:
+  https://cloud.google.com/sdk/release_notes
+
+
+2019-08-22 16:14:13,549 INFO     ___FILE_ONLY___ #============================================================#
+
+2019-08-22 16:14:13,549 INFO     ___FILE_ONLY___ #= Creating update staging area                             =#
+
+2019-08-22 16:14:13,549 INFO     ___FILE_ONLY___ #
+2019-08-22 16:14:13,550 INFO     ___FILE_ONLY___ ======
+2019-08-22 16:14:13,856 INFO     ___FILE_ONLY___ ======
+2019-08-22 16:14:13,856 INFO     ___FILE_ONLY___ ======
+2019-08-22 16:14:14,059 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,095 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,136 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,179 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,229 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,292 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,357 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,401 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,454 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,497 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,538 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,589 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,630 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,679 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,751 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,791 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,820 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,853 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,903 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,950 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:14,997 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:15,039 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:15,108 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:15,154 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:15,209 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:15,252 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:15,305 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:15,427 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:15,489 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:15,568 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:15,825 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:15,939 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:15,977 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:16,017 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:16,069 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:16,140 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:16,186 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:16,224 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:16,255 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:16,309 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:16,349 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:16,407 INFO     ___FILE_ONLY___ =
+2019-08-22 16:14:16,407 INFO     ___FILE_ONLY___ #
+
+2019-08-22 16:14:16,418 INFO     ___FILE_ONLY___ #= Installing: gcloud Alpha Commands                        =#
+
+2019-08-22 16:14:16,418 INFO     ___FILE_ONLY___ #
+2019-08-22 16:14:16,521 INFO     ___FILE_ONLY___ ==============================
+2019-08-22 16:14:16,523 INFO     ___FILE_ONLY___ =======
+2019-08-22 16:14:16,524 INFO     ___FILE_ONLY___ ========
+2019-08-22 16:14:16,524 INFO     ___FILE_ONLY___ =======
+2019-08-22 16:14:16,525 INFO     ___FILE_ONLY___ ========
+2019-08-22 16:14:16,527 INFO     ___FILE_ONLY___ #
+
+2019-08-22 16:14:16,537 INFO     ___FILE_ONLY___ #= Installing: gcloud Beta Commands                         =#
+
+2019-08-22 16:14:16,537 INFO     ___FILE_ONLY___ #
+2019-08-22 16:14:16,568 INFO     ___FILE_ONLY___ ==============================
+2019-08-22 16:14:16,569 INFO     ___FILE_ONLY___ =======
+2019-08-22 16:14:16,570 INFO     ___FILE_ONLY___ ========
+2019-08-22 16:14:16,570 INFO     ___FILE_ONLY___ =======
+2019-08-22 16:14:16,570 INFO     ___FILE_ONLY___ ========
+2019-08-22 16:14:16,571 INFO     ___FILE_ONLY___ #
+
+2019-08-22 16:14:16,581 INFO     ___FILE_ONLY___ #= Creating backup and activating new installation          =#
+
+2019-08-22 16:14:16,581 INFO     ___FILE_ONLY___ #
+2019-08-22 16:14:16,582 DEBUG    root            Attempting to move directory [/tools/google-cloud-sdk] to [/tools/google-cloud-sdk.staging/.install/.backup]
+2019-08-22 16:14:16,582 INFO     ___FILE_ONLY___ ==============================
+2019-08-22 16:14:16,582 DEBUG    root            Attempting to move directory [/tools/google-cloud-sdk.staging] to [/tools/google-cloud-sdk]
+2019-08-22 16:14:16,582 INFO     ___FILE_ONLY___ ==============================
+2019-08-22 16:14:16,583 INFO     ___FILE_ONLY___ #
+
+2019-08-22 16:14:16,588 DEBUG    root            Updating notification cache...
+2019-08-22 16:14:16,589 INFO     ___FILE_ONLY___ 
+
+2019-08-22 16:14:16,595 INFO     ___FILE_ONLY___ Performing post processing steps...
+2019-08-22 16:14:16,595 DEBUG    root            Executing command: ['/usr/bin/python2', u'-S', u'/tools/google-cloud-sdk/lib/gcloud.py', u'components', u'post-process']
+2019-08-22 16:14:17,450 DEBUG    ___FILE_ONLY___ 
+2019-08-22 16:14:17,451 DEBUG    ___FILE_ONLY___ 
+2019-08-22 16:14:17,598 INFO     ___FILE_ONLY___ 
+Update done!
+
+
+2019-08-22 16:14:17,604 INFO     root            Display format: "none"
